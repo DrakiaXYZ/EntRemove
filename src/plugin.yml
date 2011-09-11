@@ -1,0 +1,9 @@
+name: EntRemover
+main: net.TheDgtl.EntRemover.EntRemover
+version: 0.0.1
+description: EntRemover
+author: Drakia
+website: http://www.thedgtl.net
+commands:
+  entremove:
+    description: 
